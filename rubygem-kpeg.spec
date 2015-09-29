@@ -4,7 +4,7 @@
 #
 Name     : rubygem-kpeg
 Version  : 1.0.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/kpeg-1.0.0.gem
 Source0  : https://rubygems.org/downloads/kpeg-1.0.0.gem
 Summary  : No detailed summary available
